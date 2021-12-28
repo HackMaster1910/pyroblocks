@@ -1,5 +1,5 @@
-import Utils as Utils
-import User as Internal
+import pyroblocks.Utils as Utils
+import pyroblocks.User as Internal
 from typing import Union
 import requests
 import json
